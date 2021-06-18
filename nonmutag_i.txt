@@ -1,0 +1,7 @@
+1: hasStructure some Ring_size_5 (accuracy 55.955%, length 3, depth 1)
+2: hasStructure some Hetero_aromatic_5_ring (accuracy 55.955%, length 3, depth 1)
+3: hasStructure some Ring_size_6 (accuracy 58.034%, length 3, depth 1)
+4: hasStructure some Carbon_6_ring (accuracy 58.034%, length 3, depth 1)
+5: hasStructure some Hetero_aromatic_6_ring (accuracy 56.9%, length 3, depth 1)
+6: hasStructure some Azanide (accuracy 56.333%, length 3, depth 1)
+7: hasStructure some Methyl (accuracy 54.253%, length 3, depth 1)

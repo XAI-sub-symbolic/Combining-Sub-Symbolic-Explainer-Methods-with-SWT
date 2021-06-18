@@ -1,0 +1,5 @@
+1: (hasAtom some (Posphorus or Sulfur)) and (hasStructure some Methyl)  (pred. acc.: 60.68%, F-measure: 71.97%)
+2: hasStructure only Methyl  (pred. acc.: 60.49%, F-measure: 66.96%)
+3: (hasAtom some Sulfur) and (hasStructure some Methyl) (pred. acc.: 59.55%, F-measure: 60.96%)
+4: hasAtom some Posphorus (pred. acc.: 59.17%, F-measure: 63.77%)
+5: hasStructure some Carbon_5_ring (pred. acc.: 54.25%, F-measure: 61.97%)
