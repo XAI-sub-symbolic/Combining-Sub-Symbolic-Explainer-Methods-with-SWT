@@ -1088,7 +1088,7 @@ class Explainer:
                        
           
                 
-                #NH2 or similar may refer to: Azanide (chemical formula NH - 2) Amino radical (chemical formula NH • 2)
+                #NH2 or similar may refer to: Azanide (chemical formula NH - 2) Amino radical (chemical formula NH Â• 2)
                                 
                 atoms_nh = []
                 counter_nh = 0
